@@ -1,0 +1,2 @@
+A plot is a graphical technique for representing a data set, usually as a graph showing the relationship between two or more variables. 
+The plot can be drawn by hand or by a computer. In the past, sometimes mechanical or electronic plotters were used. Graphs are a visual representation of the relationship between variables, which are very useful for humans who can then quickly derive an understanding which may not have come from lists of values. 
