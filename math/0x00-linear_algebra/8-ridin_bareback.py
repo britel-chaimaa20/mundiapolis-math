@@ -14,5 +14,4 @@ def mat_mul(mat1, mat2):
                     vec += mat1[i][k] * mat2[k][j]
                 mat_i.append(vec)
             new_mat.append(mat_i)
-        for x in new_mat:
-            return new_mat
+        return new_mat
