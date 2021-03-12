@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+
+
 def np_slice(matrix, axes={}):
     sliced = []
     max_key = max(axes)
